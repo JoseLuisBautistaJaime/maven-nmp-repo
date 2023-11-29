@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>jboss</groupId>
+  <artifactId>jboss-archive-browsing</artifactId>
+  <versioning>
+    <release>5.0.0-MIDAS</release>
+    <versions>
+      <version>5.0.0-MIDAS</version>
+    </versions>
+    <lastUpdated>20231129235042</lastUpdated>
+  </versioning>
+</metadata>
