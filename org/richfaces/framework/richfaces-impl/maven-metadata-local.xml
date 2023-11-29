@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.richfaces.framework</groupId>
+  <artifactId>richfaces-impl</artifactId>
+  <versioning>
+    <versions>
+      <version>3.3.4-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20231129222148</lastUpdated>
+  </versioning>
+</metadata>

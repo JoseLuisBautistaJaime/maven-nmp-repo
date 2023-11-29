@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.richfaces.framework</groupId>
+  <artifactId>richfaces-api</artifactId>
+  <version>3.3.4-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <localCopy>true</localCopy>
+    </snapshot>
+    <lastUpdated>20231129222151</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>3.3.4-SNAPSHOT</value>
+        <updated>20231129222151</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>3.3.4-SNAPSHOT</value>
+        <updated>20231129222151</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
